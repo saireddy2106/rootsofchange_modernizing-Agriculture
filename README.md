@@ -6,9 +6,8 @@ Roots of Change is a comprehensive agriculture-focused digital platform designed
 
 Roots of Change aims to bridge this gap by providing a single platform where farmers can access agricultural knowledge, government support programs, crop recommendations, fertilizer guidance, and marketplace services.
 
----
 
-## Problem Statement
+Problem Statement
 
 Farmers often face multiple challenges that directly impact productivity and income:
 
@@ -21,9 +20,6 @@ Farmers often face multiple challenges that directly impact productivity and inc
 * Dependence on fragmented sources of information.
 
 Most existing solutions focus on only one aspect of farming rather than providing an integrated ecosystem.
-
----
-
 ## Proposed Solution
 
 Roots of Change is designed as an all-in-one agricultural assistance platform that provides:
@@ -107,7 +103,6 @@ Roots of Change is designed as an all-in-one agricultural assistance platform th
 * Agentic AI Systems
 * Conversational AI Chatbots
 
----
 
 ## My Contribution
 
@@ -127,26 +122,26 @@ As part of the development team, I contributed to:
 
 Instead of developing separate solutions for crop recommendations, government schemes, and marketplaces, the platform combines multiple services into one ecosystem.
 
-**Advantage**
+Advantage
 
 * Reduced information fragmentation.
 * Better user experience.
 
-**Trade-off**
+Trade-off
 
 * Increased development complexity.
 * Requires integration of multiple agricultural domains.
 
-### Why Rule-Based Recommendations Initially?
+Why Rule-Based Recommendations Initially?
 
 The first version focuses on structured recommendations using agricultural knowledge.
 
-**Advantage**
+Advantage
 
 * Faster implementation.
 * Easier validation.
 
-**Trade-off**
+Trade-off
 
 * Lower personalization compared to AI-driven systems.
 
